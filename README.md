@@ -1,1 +1,1 @@
-# Toy Shop as Inventory System ( Angular Project )
+# Toy Shop Inventory System ( Angular Project )
